@@ -1,0 +1,32 @@
+{
+  "types": [
+    {
+      "type": "GAME",
+      "typeList": [
+        {
+          "name": "LF2",
+          "typeListInfos": [
+            {
+              "name": "原版",
+              "typeList": [
+                {
+                  "name": "官方版",
+                  "typeListInfo": [
+                    {
+                      "gameName": "LF2_2.0",
+                      "path": "https://example.com/lf2_2.0"
+                    },
+                    {
+                      "gameName": "LF2_Turbo 3",
+                      "path": "https://example.com/turbo3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
